@@ -1,5 +1,4 @@
 /* 
-Student ID: @00194989
 Filename: palindrome.cpp
 Assignment: HW11: Pali           
 Description: A program that examines a user-entered string to determine if it's a palindrome.  
